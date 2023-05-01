@@ -1,0 +1,19 @@
+{
+    "name": "gennei/naive-tree",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gennei\\NaiveTree\\": "src/",
+            "Gennei\\NaiveTree\\Tests": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gennei",
+            "email": "sai.gennei+github@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    }
+}

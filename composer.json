@@ -4,7 +4,7 @@
     "autoload": {
         "psr-4": {
             "Gennei\\NaiveTree\\": "src/",
-            "Gennei\\NaiveTree\\Tests": "tests/"
+            "Gennei\\NaiveTree\\Tests\\": "tests/"
         }
     },
     "authors": [
